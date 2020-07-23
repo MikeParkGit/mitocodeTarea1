@@ -1,0 +1,12 @@
+{
+    
+    "fecha": "2020-06-19T18:00:00.000Z",
+    "importe" : "250.75",
+    "persona" : {
+        "idPersona" : 1
+    },
+    "detalleVenta" : [
+            {"cantidad" :"1" , "producto" : {"idProducto" : 1}},
+            {"cantidad" :"1" , "producto" : {"idProducto" : 2}}
+       ]
+}
